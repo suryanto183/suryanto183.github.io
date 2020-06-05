@@ -1,0 +1,51 @@
+@media (max-width: 767px) {
+    .title-section-main {
+        font-size: 25px;
+    }
+
+    .title-section-desc {
+        max-width: 100%;
+    }
+
+    .wcu-text-box-blue {
+        background: #fff;
+        color: #444;
+    }
+
+    .putih {
+        color: blue;
+    }
+
+    .jumbotron {
+        background-size: cover;
+        height: 640px;
+        text-align: center;
+        color: #fff;
+        margin-top: 30px;
+    }
+
+    .jumbotron h1 {
+        padding-top: 250px;
+    }
+
+    .navbar-toggler {
+        padding: none !important;
+        outline: none !important;
+    }
+
+    .navbar-toggler i {
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width: 768px) and (max-width: 1023px) {
+    .wcu-text-box-blue {
+        background: #fff;
+        color: #444;
+    }
+
+    .wcu-text-box-blue .wcu-text-box-icon {
+        color: #43a4ff;
+    }
+}
